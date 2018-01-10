@@ -1,4 +1,4 @@
-Results = readRDS("~/Dropbox/PhD/ParREVI/TotalData733")
+Results = readRDS("TotalData733")
 
 getRes = function( D,S,input = Results){
   
