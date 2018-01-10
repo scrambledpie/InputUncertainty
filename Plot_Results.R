@@ -53,3 +53,6 @@ sapply(1:5,function(s){
   lines(10:100,OCT[,s],col=cols[s])
   plotpoly(10:100,OCT[,s],ERT[,s],cols[s])
 })
+              
+legend(legend =c("LHC","KG_IU","EGO_UI","EGO_Mean","EGO_Mode"), fill = cols, x=10, y=0.05 )
+
