@@ -1,7 +1,7 @@
 # InputUncertainty
 Code for the results produced in the paper "Bayesian Simulation Optimisation with Input Uncertainty, Michael Pearce, Juergen Branke. Winter Simulation Conference 2017".
 
-## Upload_IU.R
+## BayesOpt_InputUncertainty.R
 R source code for the expriments, generate a test function with two inputs, collect evaluations from it in order to find the value of the oinput that maximises the average of the funtion over the second input.
 
 ## TotalData733
